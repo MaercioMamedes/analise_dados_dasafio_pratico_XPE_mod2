@@ -37,13 +37,13 @@ O dataset "Breast Cancer Coimbra" é um conjunto de dados utilizado para estudar
 8. Resistin: nível do hormônio resistina no sangue.
 9. MCP-1: Proteína Monócita Quimioatraente 1 (Monocyte Chemoattractant Protein-1), um marcador inflamatório.
 10. Classification: 
-    1 = Healthy controls: representa indivíduos saudáveis que não apresentam câncer de mama.
-    2 = Patients: representa indivíduos que foram diagnosticados com câncer de mama.
+    - Healthy controls: representa indivíduos saudáveis que não apresentam câncer de mama.
+    - Patients: representa indivíduos que foram diagnosticados com câncer de mama.
 
 ### Atividades do enunciado 
 Os alunos deverão desempenhar as seguintes atividades:
 1. Coletar dados do dataset:
-    a. breast_cancer.csv
+    - breast_cancer.csv
 2. Analisar os dados coletados.
 3. Tratar os dados coletados.
 4. Avaliar dados ausentes e duplicados.
